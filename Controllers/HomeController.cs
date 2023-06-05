@@ -17,6 +17,11 @@ namespace ETIT.Controllers
         {
             return View();
         } 
+
+        public async Task<IActionResult> Detail(int id)
+        {
+            return View();
+        }
         
     }
 }

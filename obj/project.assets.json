@@ -10197,11 +10197,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\ETIT\\ETIT.csproj",
+      "projectUniqueName": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\ETIT.csproj",
       "projectName": "ETIT",
-      "projectPath": "C:\\Users\\lenovo\\Desktop\\ETIT\\ETIT.csproj",
+      "projectPath": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\ETIT.csproj",
       "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lenovo\\Desktop\\ETIT\\obj\\",
+      "outputPath": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
