@@ -29,4 +29,14 @@ public class AccountController : Controller
     {
         return Ok(registerVM);
     }
+    public async Task<IActionResult> Login()
+    {
+        return View();
+    }
+    [HttpPost]
+    [ValidateAntiForgeryToken]
+    public async Task<IActionResult> Login([FromForm] LoginVM loginVM)
+    {
+        return Ok(loginVM);
+    }
 }
