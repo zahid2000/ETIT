@@ -14,5 +14,6 @@ namespace ETIT.DAL
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Delivery> Deliveries { get; set; }
+        public DbSet<ProductImage> ProductImages { get; set; }
     }
 }
