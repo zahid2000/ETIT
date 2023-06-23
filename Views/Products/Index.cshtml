@@ -1,0 +1,70 @@
+﻿@model PaginateVM<Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="product-big-title-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="product-bit-title text-center">
+                    <h2>Shop</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="single-product-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+            @foreach (Product product in Model.Data)
+            {
+                <div class="col-md-3 col-sm-6">
+                    <div class="single-shop-product">
+                        <div class="product-upper">
+                            <img style="height:200px" src="~/assets/img/@product.ProductImages.FirstOrDefault(p=>p.IsMain)?.Path" alt="">
+                        </div>
+                        <h2><a href="">@product.Name</a></h2>
+                        <div class="product-carousel-price">
+                            <ins>$@product.Price</ins>
+                            <del>$@(product.Price+100)</del>
+                        </div>
+
+                        <div class="product-option-shop">
+                            <a class="add_to_cart_button" rel="nofollow" asp-controller="Basket" asp-action="AddBasket" asp-route-id="@product.Id" asp-route-returnUrl="@Context.Request.Path">Add to cart</a>
+                        </div>
+                    </div>
+                </div>
+
+            }
+           
+        </div>
+
+        <div class=" d-flex justify-content-center">
+            <nav aria-label="Page navigation example">
+                <ul class="pagination">
+                    <li class="page-item @(Model.HasPreview?"":"disabled")">
+                        <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@(--Model.CurrentPage)" asp-route-take="@Model.Take" aria-label="Previous">
+                            <span aria-hidden="true">&laquo;</span>
+                        </a>
+                    </li>
+                    @for (int i = 1; i < Model.Data.Count; i++)
+                    {
+                        <li class="page-item"><a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@i" asp-route-take="@Model.Take">@i</a></li>
+
+                    }
+                    <li class="page-item @(Model.HasNext?"":"disabled")">
+                        <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@(++Model.CurrentPage)" asp-route-take="@Model.Take" aria-label="Next">
+                            <span aria-hidden="true">&raquo;</span>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>
+
+

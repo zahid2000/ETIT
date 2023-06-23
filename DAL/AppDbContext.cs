@@ -10,7 +10,13 @@ namespace ETIT.DAL
     {
         public AppDbContext(DbContextOptions<AppDbContext> opt):base(opt) { }
 
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.Entity<Product>().HasMany(p=>p.ProductImages).WithOne(p=>p.Product).OnDelete(DeleteBehavior.Cascade);
+        }
         public DbSet<Company> Companies { get; set; }
+        public DbSet<Category> Categories { get; set; }
         public DbSet<Product> Products { get; set; }
         public DbSet<Order> Orders { get; set; }
         public DbSet<Delivery> Deliveries { get; set; }

@@ -32,7 +32,8 @@ public class AccountController : Controller
         {
             FullName = registerVM.Fullname,
             UserName = registerVM.Username,
-            Email = registerVM.Email
+            Email = registerVM.Email,
+            Address = registerVM.Address
         };
         IdentityResult registerResult = await _userManager.CreateAsync(newUser, registerVM.Password);
         if (!registerResult.Succeeded)
@@ -43,15 +44,7 @@ public class AccountController : Controller
             }
             return View(registerVM);
         }
-        IdentityResult roleResult = await _userManager.AddToRoleAsync(newUser, UserRoles.User.ToString());
-        if (!roleResult.Succeeded)
-        {
-            foreach (IdentityError error in roleResult.Errors)
-            {
-                ModelState.AddModelError("", error.Description);
-            }
-            return View(registerVM);
-        }
+       
         return RedirectToAction(nameof(Login));
     }
     public IActionResult Login()

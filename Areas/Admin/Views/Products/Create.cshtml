@@ -1,0 +1,56 @@
+﻿@model CreateProductVM
+
+<div class="container-fluid pt-2 px-4">
+    <div class="row g-4">
+        <div class="col-xl-3"></div>
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Create Product</h6>
+                <form method="post" enctype="multipart/form-data">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Description" class="form-label"></label>
+                        <input asp-for="Description" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Price"></label>
+                        <input asp-for="Price" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Stock"></label>
+                        <input asp-for="Stock" class="form-control">
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="CompanyId"></label>
+                        <select class="form-select" asp-for="CompanyId">
+                            @foreach (var company in Model.Companies)
+                            {
+                                <option value="@company.Id">@company.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="CategoryId"></label>
+                        <select class="form-select" asp-for="CategoryId">
+                            @foreach (var category in Model.Categories)
+                            {
+                                <option value="@category.Id">@category.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label" asp-for="Images"></label>
+                        <input asp-for="Images" class="form-control">
+                    </div>
+                    <button type="submit" class="btn btn-primary">Create</button>
+                </form>
+            </div>
+        </div>
+        <div class="col-xl-3"></div>
+
+    </div>
+</div>
+

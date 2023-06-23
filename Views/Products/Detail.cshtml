@@ -1,0 +1,86 @@
+﻿@model Product
+@{
+    ViewData["Title"] = "Detail";
+}
+<div class="product-big-title-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="product-bit-title text-center">
+                    <h2>Shop</h2>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="single-product-area">
+    <div class="zigzag-bottom"></div>
+    <div class="container">
+        <div class="row">
+         
+            <div class="col-md-12">
+                <div class="product-content-right">
+                    <div class="product-breadcroumb">
+                        <a asp-controller="Home" asp-action="Index">Home</a>
+                        <a >@Model.Name</a>
+                    </div>
+
+                    <div class="row">
+                        <div class="col-sm-6">
+                            <div class="product-images">
+                                <div class="product-main-img">
+                                    <img src="~/assets/img/@Model.ProductImages.FirstOrDefault(p=>p.IsMain)?.Path" alt="">
+                                </div>
+
+                                <div class="product-gallery">
+                                    @foreach (var item in Model.ProductImages)
+                                    {
+                                        <img src="~/assets/img/@item.Path" alt="">
+                                    }                                   
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-sm-6">
+                            <div class="product-inner">
+                                <h2 class="product-name">@Model.Name</h2>
+                                <div class="product-inner-price">
+                                    <ins>$@Model.Price</ins> <del>$@(Model.Price+100)</del>
+                                </div>
+
+                                <form action="" class="cart">
+                                    <div class="quantity">
+                                        <input type="number" size="4" class="input-text qty text" title="Qty" value="@ViewBag.BasketItemCount" name="quantity" min="1" step="1">
+                                    </div>
+                                    <a asp-controller="Basket" asp-action="AddBasket" asp-route-id="@Model.Id" asp-route-returnUrl="@Context.Request.Path" class="btn btn-primary">Add to cart</a>
+                                </form>
+
+                                <div class="product-inner-category">
+                                    <p>Category: @Model.Category?.Name</p>.
+                                    <p>Company: @Model.Company?.Name</p>.
+                                </div>
+
+                                <div role="tabpanel">
+                                    
+                                    <div class="tab-content">
+                                        <div role="tabpanel" class="tab-pane fade in active" id="home">
+                                            <h2>Product Description</h2>
+                                            <p>@Model.Description</p>
+                                        </div>
+                                       
+                                    </div>
+                                </div>
+
+                            </div>
+                        </div>
+                    </div>
+
+
+                   @await Component.InvokeAsync("LatestProducts")
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

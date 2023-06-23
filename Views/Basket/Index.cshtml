@@ -20,49 +20,7 @@
     <div class="zigzag-bottom"></div>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
-                <div class="single-sidebar">
-                    <h2 class="sidebar-title">Search Products</h2>
-                    <form action="#">
-                        <input type="text" placeholder="Search products...">
-                        <input type="submit" value="Search">
-                    </form>
-                </div>
-
-                <div class="single-sidebar">
-                    <h2 class="sidebar-title">Products</h2>
-                    <div class="thubmnail-recent">
-                        <img src="~/assets/img/product-thumb-1.jpg" class="recent-thumb" alt="">
-                        <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
-                        <div class="product-sidebar-price">
-                            <ins>$700.00</ins> <del>$800.00</del>
-                        </div>
-                    </div>
-                    <div class="thubmnail-recent">
-                        <img src="~/assets/img/product-thumb-1.jpg" class="recent-thumb" alt="">
-                        <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
-                        <div class="product-sidebar-price">
-                            <ins>$700.00</ins> <del>$800.00</del>
-                        </div>
-                    </div>
-                    <div class="thubmnail-recent">
-                        <img src="~/assets/img/product-thumb-1.jpg" class="recent-thumb" alt="">
-                        <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
-                        <div class="product-sidebar-price">
-                            <ins>$700.00</ins> <del>$800.00</del>
-                        </div>
-                    </div>
-                    <div class="thubmnail-recent">
-                        <img src="~/assets/img/product-thumb-1.jpg" class="recent-thumb" alt="">
-                        <h2><a href="single-product.html">Sony Smart TV - 2015</a></h2>
-                        <div class="product-sidebar-price">
-                            <ins>$700.00</ins> <del>$800.00</del>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-md-8">
+            <div class="col-md-12">
                 <div class="product-content-right">
                     <div class="woocommerce">
                         <form method="post" action="#">
@@ -72,50 +30,51 @@
                                         <th class="product-remove">&nbsp;</th>
                                         <th class="product-thumbnail">&nbsp;</th>
                                         <th class="product-name">Product</th>
+                                        <th class="product-name">Company</th>
+                                        <th class="product-name">Category</th>
                                         <th class="product-price">Price</th>
                                         <th class="product-quantity">Quantity</th>
                                         <th class="product-subtotal">Total</th>
                                     </tr>
                                 </thead>
                                 <tbody>
-                                    <tr class="cart_item">
-                                        <td class="product-remove">
-                                            <a title="Remove this item" class="remove" href="#">×</a>
-                                        </td>
+                                   @foreach (var product in Model)
+                                    {
+                                        <tr class="cart_item">
+                                            <td class="product-remove">
+                                                <a title="Remove this item" class="remove" asp-controller="Basket" asp-action="DeleteBasketItem" asp-route-id="@product?.Id">×</a>
+                                            </td>
 
-                                        <td class="product-thumbnail">
-                                            <a href="single-product.html"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="~/assets/img/product-thumb-2.jpg"></a>
-                                        </td>
+                                            <td class="product-thumbnail">
+                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="~/assets/img/@product.ImagePath"></a>
+                                            </td>
 
-                                        <td class="product-name">
-                                            <a href="single-product.html">Ship Your Idea</a>
-                                        </td>
+                                            <td class="product-name">
+                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id">@product.Name</a>
+                                            </td>
+                                            <td>@product.CompanyName</td>
+                                            <td>@product.CategoryName</td>
+                                            <td class="product-price">
+                                                <span class="amount">£@product.Price</span>
+                                            </td>
 
-                                        <td class="product-price">
-                                            <span class="amount">£15.00</span>
-                                        </td>
+                                            <td class="product-quantity">
+                                                <div class="quantity buttons_added">
+                                                    <a asp-controller="Basket" asp-action="DecrementBasketItem" asp-route-id="@product?.Id" class="btn btn-primary" value="-">-</a>
+                                                    <input type="number" size="4" class="input-text qty text" title="Qty" value="@product?.Count" min="0" step="1">
+                                                    <a  asp-controller="Basket" asp-action="IncrementBasketItem" asp-route-id="@product?.Id" class="btn btn-primary" >+</a>
+                                                </div>
+                                            </td>
 
-                                        <td class="product-quantity">
-                                            <div class="quantity buttons_added">
-                                                <input type="button" class="minus" value="-">
-                                                <input type="number" size="4" class="input-text qty text" title="Qty" value="1" min="0" step="1">
-                                                <input type="button" class="plus" value="+">
-                                            </div>
-                                        </td>
-
-                                        <td class="product-subtotal">
-                                            <span class="amount">£15.00</span>
-                                        </td>
-                                    </tr>
+                                            <td class="product-subtotal">
+                                                <span class="amount">£@(product.Price*product.Count)</span>
+                                            </td>
+                                        </tr>
+                                    }
                                     <tr>
                                         <td class="actions" colspan="6">
-                                            <div class="coupon">
-                                                <label for="coupon_code">Coupon:</label>
-                                                <input type="text" placeholder="Coupon code" value="" id="coupon_code" class="input-text" name="coupon_code">
-                                                <input type="submit" value="Apply Coupon" name="apply_coupon" class="button">
-                                            </div>
-                                            <input type="submit" value="Update Cart" name="update_cart" class="button">
-                                            <input type="submit" value="Checkout" name="proceed" class="checkout-button button alt wc-forward">
+                                           
+                                            <a  asp-controller="Basket" asp-action="OrderedBasket" value="Ordered" name="proceed" class="btn btn-primary">Order</a>
                                         </td>
                                     </tr>
                                 </tbody>
@@ -130,7 +89,7 @@
                                     <tbody>
                                         <tr class="cart-subtotal">
                                             <th>Cart Subtotal</th>
-                                            <td><span class="amount">£15.00</span></td>
+                                            <td><span class="amount">£@Model.Sum(p=>p.Price*p.Count)</span></td>
                                         </tr>
 
                                         <tr class="shipping">
@@ -140,7 +99,7 @@
 
                                         <tr class="order-total">
                                             <th>Order Total</th>
-                                            <td><strong><span class="amount">£15.00</span></strong> </td>
+                                            <td><strong><span class="amount">£@Model.Sum(p=>p.Price*p.Count)</span></strong> </td>
                                         </tr>
                                     </tbody>
                                 </table>
@@ -148,6 +107,9 @@
                         </div>
                     </div>
                 </div>
+            </div>
+            <div class="col-12">
+                @await Component.InvokeAsync("LatestProducts")
             </div>
         </div>
     </div>

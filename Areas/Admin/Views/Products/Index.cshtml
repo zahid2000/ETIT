@@ -1,0 +1,72 @@
+﻿@model PaginateVM<Product>
+@{
+    ViewData["Title"] = "Index";
+    int number = (Model.CurrentPage - 1) * Model.Take + 1;
+}
+
+<div class="container my-3">
+    <div class="d-flex justify-content-end">
+        <a class="btn btn-outline-success" asp-controller="Products" asp-action="Create"><i class="fa-solid fa-plus"></i> Create</a>
+    </div>
+    <table class=" table table-dark table-striped">
+        <thead>
+            <tr>
+                <th>№</th>
+                <th>Image</th>
+                <th>Name</th>
+                <th>Price($)</th>
+                <th>Stock</th>
+                <th>Active</th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (Product product in Model.Data)
+            {
+                <tr>
+                    <td>@number</td>
+                    <td><img height="100" src="~/assets/img/@product.ProductImages.FirstOrDefault(i=>i.IsMain)?.Path??" /></td>
+                    <td>@product.Name</td>
+                    <td>@product.Price</td>
+                    <td>@product.Stock</td>
+                    @if (@product.IsDeleted)
+                    {
+                        <td><a class="btn btn-danger" asp-controller="Products" asp-action="ChangeDeleteStatus" asp-route-id="@product.Id" asp-route-status="false">No</a></td>
+                    }
+                    else
+                    {
+                        <td><a class="btn btn-success" asp-controller="Products" asp-action="ChangeDeleteStatus" asp-route-id="@product.Id" asp-route-status="true">Yes</a></td>
+                    }
+                    <td>
+                        <a class="btn btn-warning" asp-controller="Products" asp-action="Update" asp-route-id="@product.Id">
+                            <i class="fa-solid fa-pen"></i>
+                        </a>
+                        <a class="btn btn-danger" asp-controller="Products" asp-action="Delete" asp-route-id="@product.Id"><i class="fa-solid fa-trash-can"></i></a>
+                    </td>
+                </tr>
+                number++;
+            }
+        </tbody>
+    </table>
+    <div class=" d-flex justify-content-center">
+        <nav aria-label="Page navigation example">
+            <ul class="pagination">
+                <li class="page-item @(Model.HasPreview?"":"disabled")">
+                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@(--Model.CurrentPage)" asp-route-take="@Model.Take" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+               @for (int i = 1; i <Model.Data.Count; i++)
+                {
+                    <li class="page-item"><a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@i" asp-route-take="@Model.Take">@i</a></li>
+
+                }
+                <li class="page-item @(Model.HasNext?"":"disabled")">
+                    <a class="page-link" asp-controller="Products" asp-action="Index" asp-route-page="@(++Model.CurrentPage)" asp-route-take="@Model.Take" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </div>
+</div>
