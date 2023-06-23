@@ -31,7 +31,7 @@ public class LayoutService
             Product? product = await _context.Products
                                             .Where(s => !s.IsDeleted && s.Id == item.ProductId)
                                             .FirstOrDefaultAsync();
-            sum += product.Price * item.Count;
+            sum += product?.Price??0 * item.Count;
         }
         return (sum,basketItemVMs!.Sum(b=>b.Count));
     }

@@ -10,8 +10,8 @@
                         @foreach (Product product in Model)
                         {
                             <div class="single-product">
-                                <div class="product-f-image">
-                                    <img style="height:250px" src="~/assets/img/@product.ProductImages.FirstOrDefault(p=>p.IsMain)?.Path" alt="">
+                                <div class="product-f-image" >
+                                    <img style="height:250px;width:400px!important" src="~/assets/img/@product.ProductImages.FirstOrDefault(p=>p.IsMain)?.Path" alt="">
                                     <div class="product-hover">
                                         <a asp-controller="Basket" asp-action="AddBasket" asp-route-id="@product.Id" asp-route-returnUrl="@Context.Request.Path" class="add-to-cart-link"><i class="fa fa-shopping-cart"></i> Add to cart</a>
                                         <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id" class="view-details-link"><i class="fa fa-link"></i> See details</a>

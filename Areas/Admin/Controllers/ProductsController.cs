@@ -5,12 +5,15 @@ using ETIT.Models;
 using ETIT.Utilities.Constants;
 using ETIT.Utilities.Extensions;
 using ETIT.ViewModels;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System.Data;
 
 namespace ETIT.Areas.Admin.Controllers;
 [Area("admin")]
+[Authorize(Roles = "Admin")]
+
 public class ProductsController : Controller
 {
     private readonly AppDbContext _context;

@@ -26,9 +26,11 @@ public class BasketController : Controller
 
     public async Task<IActionResult> Index()
     {
-        List<BasketItemDetailVM> basketItemDetailVMs = new List<BasketItemDetailVM>();
-        List<BasketItemVM>? basketItemVMs = JsonConvert.DeserializeObject<List<BasketItemVM>>(Request.Cookies[COOKIES_BASKET]);
-        if (basketItemVMs == null) return View();
+        List<BasketItemDetailVM>? basketItemDetailVMs = new List<BasketItemDetailVM>();
+        List<BasketItemVM>? basketItemVMs = null;
+        if (Request.Cookies[COOKIES_BASKET]!=null)
+           basketItemVMs = JsonConvert.DeserializeObject<List<BasketItemVM>>(Request.Cookies[COOKIES_BASKET]);
+        if (basketItemVMs == null) return View(basketItemDetailVMs);
         foreach (BasketItemVM item in basketItemVMs!)
         {
             Product? product = await _appDbContext.Products
@@ -39,7 +41,9 @@ public class BasketController : Controller
                                             .FirstOrDefaultAsync();
             BasketItemDetailVM basketItemDetailVM = _mapper.Map<BasketItemDetailVM>(product);
             basketItemDetailVM.Count = item.Count;
-            basketItemDetailVMs.Add(basketItemDetailVM);
+            if (basketItemDetailVM !=null)
+                basketItemDetailVMs.Add(basketItemDetailVM);
+
         }
         return View(basketItemDetailVMs);
     }

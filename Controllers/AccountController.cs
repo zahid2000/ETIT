@@ -39,12 +39,17 @@ public class AccountController : Controller
         if (!registerResult.Succeeded)
         {
             foreach (IdentityError error in registerResult.Errors)
-            {
                 ModelState.AddModelError("", error.Description);
-            }
             return View(registerVM);
         }
-       
+      IdentityResult roleResult=  await _userManager.AddToRoleAsync(newUser,UserRoles.User.ToString());
+        if (!roleResult.Succeeded)
+        {
+            foreach (IdentityError error in roleResult.Errors)
+                ModelState.AddModelError("", error.Description);
+            return View(registerVM);
+
+        }
         return RedirectToAction(nameof(Login));
     }
     public IActionResult Login()
@@ -97,7 +102,7 @@ public class AccountController : Controller
     //    }
     //    return Json("Ok");
     //}
-    public IActionResult AccessDenied()
+    public IActionResult AccessDenied(string? ReturnUrl)
     {
         return View();
     }

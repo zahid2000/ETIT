@@ -1,4 +1,4 @@
-﻿@model List<BasketItemDetailVM?>?
+﻿@model List<BasketItemDetailVM>
 @{
     ViewData["Title"] = "Cart";
 }
@@ -38,7 +38,7 @@
                                     </tr>
                                 </thead>
                                 <tbody>
-                                   @foreach (var product in Model)
+                                   @foreach (BasketItemDetailVM? product in Model)
                                     {
                                         <tr class="cart_item">
                                             <td class="product-remove">
@@ -46,16 +46,16 @@
                                             </td>
 
                                             <td class="product-thumbnail">
-                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="~/assets/img/@product.ImagePath"></a>
+                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product?.Id"><img width="145" height="145" alt="poster_1_up" class="shop_thumbnail" src="~/assets/img/@product?.ImagePath"></a>
                                             </td>
 
                                             <td class="product-name">
-                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product.Id">@product.Name</a>
+                                                <a asp-controller="Products" asp-action="Detail" asp-route-id="@product?.Id">@product?.Name</a>
                                             </td>
-                                            <td>@product.CompanyName</td>
-                                            <td>@product.CategoryName</td>
+                                            <td>@product?.CompanyName</td>
+                                            <td>@product?.CategoryName</td>
                                             <td class="product-price">
-                                                <span class="amount">£@product.Price</span>
+                                                <span class="amount">£@product?.Price</span>
                                             </td>
 
                                             <td class="product-quantity">
@@ -67,7 +67,7 @@
                                             </td>
 
                                             <td class="product-subtotal">
-                                                <span class="amount">£@(product.Price*product.Count)</span>
+                                                <span class="amount">£@(product?.Price*product?.Count)</span>
                                             </td>
                                         </tr>
                                     }

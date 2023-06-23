@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YawLo9wlHKpxGVCI6ddNJDJQHAPPA8VN9XxU6eY8on4=",
+  "Hash": "8IH7lSrVzQLmzWxp+n4UcbTjrRlVB7z/FS1hw9PG8NQ=",
   "Source": "ETIT",
   "BasePath": "_content/ETIT",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "ETIT\\wwwroot",
       "Source": "ETIT",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ETIT.styles.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ETIT.styles.css",
       "SourceId": "ETIT",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "ETIT.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ETIT.styles.css"
+      "OriginalItemSpec": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\bundle\\ETIT.styles.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ETIT.bundle.scp.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ETIT.bundle.scp.css",
       "SourceId": "ETIT",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "ETIT.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ETIT.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\ETIT.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\css\\bootstrap.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\css\\style.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\css\\style.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/css/style.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\img\\testimonial-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\img\\testimonial-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/img/testimonial-1.jpg",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\testimonial-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\img\\testimonial-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\img\\testimonial-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/img/testimonial-2.jpg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\testimonial-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\img\\user.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\img\\user.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/img/user.jpg",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\img\\user.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\js\\main.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\js\\main.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/js/main.js",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\chart\\chart.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\chart\\chart.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/chart/chart.min.js",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\chart\\chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\easing\\easing.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\easing\\easing.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/easing/easing.js",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\easing\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\easing\\easing.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\easing\\easing.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/easing/easing.min.js",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\easing\\easing.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/ajax-loader.gif",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\ajax-loader.gif"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.carousel.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.carousel.min.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.default.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.default.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.green.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.theme.green.min.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/assets/owl.video.play.png",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\assets\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\LICENSE",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/LICENSE",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/owl.carousel.js",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/owlcarousel/owl.carousel.min.js",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\owlcarousel\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/js/moment.min.js",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/js/moment-timezone.min.js",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\moment-timezone.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.js",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/tempusdominus/js/tempusdominus-bootstrap-4.min.js",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\waypoints\\links.php",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\waypoints\\links.php",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/waypoints/links.php",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\waypoints\\links.php"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\lib\\waypoints\\waypoints.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/lib/waypoints/waypoints.min.js",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\lib\\waypoints\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_accordion.scss",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_accordion.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_alert.scss",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_badge.scss",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_badge.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_breadcrumb.scss",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_breadcrumb.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_button-group.scss",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_button-group.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_buttons.scss",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_card.scss",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_card.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_carousel.scss",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_carousel.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_close.scss",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_close.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_containers.scss",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_containers.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_dropdown.scss",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_dropdown.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_forms.scss",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_functions.scss",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_functions.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_grid.scss",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_helpers.scss",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_helpers.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_images.scss",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_images.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_list-group.scss",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_mixins.scss",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_mixins.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_modal.scss",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_modal.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_nav.scss",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_nav.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_navbar.scss",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_navbar.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_offcanvas.scss",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_offcanvas.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_pagination.scss",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_popover.scss",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_popover.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_progress.scss",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_progress.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_reboot.scss",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_root.scss",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_root.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_spinners.scss",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_spinners.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_tables.scss",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_tables.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_toasts.scss",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_toasts.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_tooltip.scss",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_tooltip.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_transitions.scss",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_transitions.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_type.scss",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_type.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_utilities.scss",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/_variables.scss",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\_variables.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap.scss",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-grid.scss",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-reboot.scss",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/bootstrap-utilities.scss",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_floating-labels.scss",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-check.scss",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-control.scss",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-range.scss",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-select.scss",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_form-text.scss",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_input-group.scss",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_labels.scss",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_labels.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/forms/_validation.scss",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\forms\\_validation.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_clearfix.scss",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_colored-links.scss",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_position.scss",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_position.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_ratio.scss",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_stretched-link.scss",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_text-truncation.scss",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/helpers/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_alert.scss",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_border-radius.scss",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_box-shadow.scss",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_breakpoints.scss",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_buttons.scss",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_caret.scss",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_clearfix.scss",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_color-scheme.scss",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_container.scss",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_container.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_deprecate.scss",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_forms.scss",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_gradients.scss",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_grid.scss",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_image.scss",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_image.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_list-group.scss",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_lists.scss",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_pagination.scss",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_reset-text.scss",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_resize.scss",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_table-variants.scss",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_text-truncate.scss",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_transition.scss",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_utilities.scss",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/mixins/_visually-hidden.scss",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/utilities/_api.scss",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\utilities\\_api.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "admin/scss/bootstrap/scss/vendor/_rfs.scss",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\admin\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\css\\bootstrap.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\css\\font-awesome.min.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/css/font-awesome.min.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\css\\owl.carousel.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/css/owl.carousel.css",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\css\\responsive.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\css\\responsive.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/css/responsive.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\FontAwesome.otf",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\0686bc6f-d86f-4a5b-9a23-2b1522b32fceproduct-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\0686bc6f-d86f-4a5b-9a23-2b1522b32fceproduct-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/0686bc6f-d86f-4a5b-9a23-2b1522b32fceproduct-thumb-4.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\0686bc6f-d86f-4a5b-9a23-2b1522b32fceproduct-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\06d35c76-d5a3-4775-9091-03a179bae9a8product-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\06d35c76-d5a3-4775-9091-03a179bae9a8product-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/06d35c76-d5a3-4775-9091-03a179bae9a8product-1.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\06d35c76-d5a3-4775-9091-03a179bae9a8product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\1cf4ba32-5a9f-4175-a44c-b9bb5f46560cproduct-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\073bfa6e-c8d7-4ce3-87e7-d0dd05c1bd02s1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
+      "BasePath": "_content/ETIT",
+      "RelativePath": "assets/img/073bfa6e-c8d7-4ce3-87e7-d0dd05c1bd02s1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\073bfa6e-c8d7-4ce3-87e7-d0dd05c1bd02s1.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\1cf4ba32-5a9f-4175-a44c-b9bb5f46560cproduct-thumb-3.jpg",
+      "SourceId": "ETIT",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/1cf4ba32-5a9f-4175-a44c-b9bb5f46560cproduct-thumb-3.jpg",
       "AssetKind": "All",
@@ -2193,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\1cf4ba32-5a9f-4175-a44c-b9bb5f46560cproduct-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\22c38a2d-3f37-406d-a89c-b6c417cbd7ffproduct-6.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\22c38a2d-3f37-406d-a89c-b6c417cbd7ffproduct-6.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/22c38a2d-3f37-406d-a89c-b6c417cbd7ffproduct-6.jpg",
       "AssetKind": "All",
@@ -2210,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\22c38a2d-3f37-406d-a89c-b6c417cbd7ffproduct-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\2454ab9b-1078-485f-ade9-c95dc56cd3fcproduct-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\2454ab9b-1078-485f-ade9-c95dc56cd3fcproduct-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/2454ab9b-1078-485f-ade9-c95dc56cd3fcproduct-4.jpg",
       "AssetKind": "All",
@@ -2227,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\2454ab9b-1078-485f-ade9-c95dc56cd3fcproduct-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\2912060c-b2b6-4d62-a314-46b75ae11cccproduct-5.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\2912060c-b2b6-4d62-a314-46b75ae11cccproduct-5.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/2912060c-b2b6-4d62-a314-46b75ae11cccproduct-5.jpg",
       "AssetKind": "All",
@@ -2244,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\2912060c-b2b6-4d62-a314-46b75ae11cccproduct-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\30d44552-83a4-4dcd-bd21-ce45ecfdf257product-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\30d44552-83a4-4dcd-bd21-ce45ecfdf257product-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/30d44552-83a4-4dcd-bd21-ce45ecfdf257product-thumb-4.jpg",
       "AssetKind": "All",
@@ -2261,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\30d44552-83a4-4dcd-bd21-ce45ecfdf257product-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\3df8ad7a-8804-4a86-ab69-338f3c65cf9fproduct-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\3df8ad7a-8804-4a86-ab69-338f3c65cf9fproduct-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/3df8ad7a-8804-4a86-ab69-338f3c65cf9fproduct-2.jpg",
       "AssetKind": "All",
@@ -2278,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\3df8ad7a-8804-4a86-ab69-338f3c65cf9fproduct-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\51689483-7d4d-405f-be01-576088fde666product-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\51689483-7d4d-405f-be01-576088fde666product-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/51689483-7d4d-405f-be01-576088fde666product-1.jpg",
       "AssetKind": "All",
@@ -2295,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\51689483-7d4d-405f-be01-576088fde666product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\51ed5ab1-0955-4ab1-ae29-bfe578da60d8product-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\51ed5ab1-0955-4ab1-ae29-bfe578da60d8product-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/51ed5ab1-0955-4ab1-ae29-bfe578da60d8product-4.jpg",
       "AssetKind": "All",
@@ -2312,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\51ed5ab1-0955-4ab1-ae29-bfe578da60d8product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\54d78d6c-b613-47ee-a3ed-6685b0220768product-5.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\54d78d6c-b613-47ee-a3ed-6685b0220768product-5.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/54d78d6c-b613-47ee-a3ed-6685b0220768product-5.jpg",
       "AssetKind": "All",
@@ -2329,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\54d78d6c-b613-47ee-a3ed-6685b0220768product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\6085a78f-e5fb-4cd0-a2bf-6b6ddc3ce053product-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\6085a78f-e5fb-4cd0-a2bf-6b6ddc3ce053product-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/6085a78f-e5fb-4cd0-a2bf-6b6ddc3ce053product-thumb-3.jpg",
       "AssetKind": "All",
@@ -2346,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\6085a78f-e5fb-4cd0-a2bf-6b6ddc3ce053product-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\6620634e-7a57-4aef-8fa0-7c3826efb50aproduct-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\6620634e-7a57-4aef-8fa0-7c3826efb50aproduct-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/6620634e-7a57-4aef-8fa0-7c3826efb50aproduct-thumb-3.jpg",
       "AssetKind": "All",
@@ -2363,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\6620634e-7a57-4aef-8fa0-7c3826efb50aproduct-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\6764a917-be9d-4960-9501-f1e879eaf095product-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\6764a917-be9d-4960-9501-f1e879eaf095product-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/6764a917-be9d-4960-9501-f1e879eaf095product-thumb-4.jpg",
       "AssetKind": "All",
@@ -2380,10 +2397,27 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\6764a917-be9d-4960-9501-f1e879eaf095product-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\6cfeaefb-216b-4802-8b07-c26d74a47a7cproduct-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\6938ddfd-b15c-4d2d-a7a6-2caf37870147download.jpeg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
+      "BasePath": "_content/ETIT",
+      "RelativePath": "assets/img/6938ddfd-b15c-4d2d-a7a6-2caf37870147download.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\6938ddfd-b15c-4d2d-a7a6-2caf37870147download.jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\6cfeaefb-216b-4802-8b07-c26d74a47a7cproduct-thumb-4.jpg",
+      "SourceId": "ETIT",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/6cfeaefb-216b-4802-8b07-c26d74a47a7cproduct-thumb-4.jpg",
       "AssetKind": "All",
@@ -2397,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\6cfeaefb-216b-4802-8b07-c26d74a47a7cproduct-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\79c06bde-86be-47bb-834c-e7626c1a48b4brand2.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\79c06bde-86be-47bb-834c-e7626c1a48b4brand2.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/79c06bde-86be-47bb-834c-e7626c1a48b4brand2.png",
       "AssetKind": "All",
@@ -2414,10 +2448,44 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\79c06bde-86be-47bb-834c-e7626c1a48b4brand2.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\850340c5-1a3f-4853-be07-3bce61b706bdproduct-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\7a70bea4-e97b-4960-a812-3baa9a525a6fdownload (1).jpeg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
+      "BasePath": "_content/ETIT",
+      "RelativePath": "assets/img/7a70bea4-e97b-4960-a812-3baa9a525a6fdownload (1).jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\7a70bea4-e97b-4960-a812-3baa9a525a6fdownload (1).jpeg"
+    },
+    {
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\7e53e9bb-c4bb-4c12-b7a4-5d430e6f7618s2.jpg",
+      "SourceId": "ETIT",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
+      "BasePath": "_content/ETIT",
+      "RelativePath": "assets/img/7e53e9bb-c4bb-4c12-b7a4-5d430e6f7618s2.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\7e53e9bb-c4bb-4c12-b7a4-5d430e6f7618s2.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\850340c5-1a3f-4853-be07-3bce61b706bdproduct-1.jpg",
+      "SourceId": "ETIT",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/850340c5-1a3f-4853-be07-3bce61b706bdproduct-1.jpg",
       "AssetKind": "All",
@@ -2431,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\850340c5-1a3f-4853-be07-3bce61b706bdproduct-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\90dfb486-5f08-47e2-a059-6edfc624084abrand1.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\90dfb486-5f08-47e2-a059-6edfc624084abrand1.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/90dfb486-5f08-47e2-a059-6edfc624084abrand1.png",
       "AssetKind": "All",
@@ -2448,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\90dfb486-5f08-47e2-a059-6edfc624084abrand1.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\9a8d7f09-b635-4d77-a90f-74989cd13dfaproduct-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\9a8d7f09-b635-4d77-a90f-74989cd13dfaproduct-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/9a8d7f09-b635-4d77-a90f-74989cd13dfaproduct-thumb-3.jpg",
       "AssetKind": "All",
@@ -2465,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\9a8d7f09-b635-4d77-a90f-74989cd13dfaproduct-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\9e2f2e03-7064-450b-9194-a90c5631da45product-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\9e2f2e03-7064-450b-9194-a90c5631da45product-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/9e2f2e03-7064-450b-9194-a90c5631da45product-thumb-3.jpg",
       "AssetKind": "All",
@@ -2482,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\9e2f2e03-7064-450b-9194-a90c5631da45product-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\a1127948-a6f3-4475-8458-2c14c5a3e7dcproduct-thumb-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\a1127948-a6f3-4475-8458-2c14c5a3e7dcproduct-thumb-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/a1127948-a6f3-4475-8458-2c14c5a3e7dcproduct-thumb-2.jpg",
       "AssetKind": "All",
@@ -2499,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a1127948-a6f3-4475-8458-2c14c5a3e7dcproduct-thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\a5ec7567-273e-4374-aa45-d857006995c0product-thumb-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\a5ec7567-273e-4374-aa45-d857006995c0product-thumb-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/a5ec7567-273e-4374-aa45-d857006995c0product-thumb-1.jpg",
       "AssetKind": "All",
@@ -2516,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\a5ec7567-273e-4374-aa45-d857006995c0product-thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\b088d0b8-5a66-403d-b039-d470bb5ebc8cproduct-thumb-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\b088d0b8-5a66-403d-b039-d470bb5ebc8cproduct-thumb-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/b088d0b8-5a66-403d-b039-d470bb5ebc8cproduct-thumb-1.jpg",
       "AssetKind": "All",
@@ -2533,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b088d0b8-5a66-403d-b039-d470bb5ebc8cproduct-thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\b140de57-ccd9-47b8-bba5-57b509c01929brand6.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\b140de57-ccd9-47b8-bba5-57b509c01929brand6.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/b140de57-ccd9-47b8-bba5-57b509c01929brand6.png",
       "AssetKind": "All",
@@ -2550,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b140de57-ccd9-47b8-bba5-57b509c01929brand6.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\b4392dc9-8319-4024-bf12-bc88d3ed203dproduct-thumb-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\b4392dc9-8319-4024-bf12-bc88d3ed203dproduct-thumb-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/b4392dc9-8319-4024-bf12-bc88d3ed203dproduct-thumb-2.jpg",
       "AssetKind": "All",
@@ -2567,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b4392dc9-8319-4024-bf12-bc88d3ed203dproduct-thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\b5c3f9bb-babb-4cd0-924a-194c80cffcbaproduct-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\b5c3f9bb-babb-4cd0-924a-194c80cffcbaproduct-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/b5c3f9bb-babb-4cd0-924a-194c80cffcbaproduct-2.jpg",
       "AssetKind": "All",
@@ -2584,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b5c3f9bb-babb-4cd0-924a-194c80cffcbaproduct-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\b72f6cf2-686b-4bfa-a986-60c61d3d0367product-thumb-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\b72f6cf2-686b-4bfa-a986-60c61d3d0367product-thumb-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/b72f6cf2-686b-4bfa-a986-60c61d3d0367product-thumb-1.jpg",
       "AssetKind": "All",
@@ -2601,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\b72f6cf2-686b-4bfa-a986-60c61d3d0367product-thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\ba30f875-61b6-44e2-9246-ce005dd8c65aproduct-thumb-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\ba30f875-61b6-44e2-9246-ce005dd8c65aproduct-thumb-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/ba30f875-61b6-44e2-9246-ce005dd8c65aproduct-thumb-2.jpg",
       "AssetKind": "All",
@@ -2618,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ba30f875-61b6-44e2-9246-ce005dd8c65aproduct-thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand1.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand1.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand1.png",
       "AssetKind": "All",
@@ -2635,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand1.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand2.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand2.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand2.png",
       "AssetKind": "All",
@@ -2652,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand2.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand3.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand3.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand3.png",
       "AssetKind": "All",
@@ -2669,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand3.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand4.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand4.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand4.png",
       "AssetKind": "All",
@@ -2686,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand4.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand5.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand5.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand5.png",
       "AssetKind": "All",
@@ -2703,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand5.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\brand6.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\brand6.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/brand6.png",
       "AssetKind": "All",
@@ -2720,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\brand6.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\c9e1017b-3981-420b-92e7-68c763d3b960product-6.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\c9e1017b-3981-420b-92e7-68c763d3b960product-6.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/c9e1017b-3981-420b-92e7-68c763d3b960product-6.jpg",
       "AssetKind": "All",
@@ -2737,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\c9e1017b-3981-420b-92e7-68c763d3b960product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\ca2d06a3-51fc-477b-88c6-3c625703f1f0product-6.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\ca2d06a3-51fc-477b-88c6-3c625703f1f0product-6.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/ca2d06a3-51fc-477b-88c6-3c625703f1f0product-6.jpg",
       "AssetKind": "All",
@@ -2754,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\ca2d06a3-51fc-477b-88c6-3c625703f1f0product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\crossword.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\crossword.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/crossword.png",
       "AssetKind": "All",
@@ -2771,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\crossword.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\d665523e-9916-4c76-96e6-3b17f1fa9429h4-slide.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\d665523e-9916-4c76-96e6-3b17f1fa9429h4-slide.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/d665523e-9916-4c76-96e6-3b17f1fa9429h4-slide.png",
       "AssetKind": "All",
@@ -2788,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\d665523e-9916-4c76-96e6-3b17f1fa9429h4-slide.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\dac8cfff-6b13-4860-ae08-575b058a7075product-5.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\dac8cfff-6b13-4860-ae08-575b058a7075product-5.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/dac8cfff-6b13-4860-ae08-575b058a7075product-5.jpg",
       "AssetKind": "All",
@@ -2805,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dac8cfff-6b13-4860-ae08-575b058a7075product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\dbc33ee6-72de-458b-86f3-fde368ef2f13product-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\dbc33ee6-72de-458b-86f3-fde368ef2f13product-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/dbc33ee6-72de-458b-86f3-fde368ef2f13product-2.jpg",
       "AssetKind": "All",
@@ -2822,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\dbc33ee6-72de-458b-86f3-fde368ef2f13product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\e6e5a7d9-50ba-42ad-9899-500b7ecc32a1product-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\e6e5a7d9-50ba-42ad-9899-500b7ecc32a1product-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/e6e5a7d9-50ba-42ad-9899-500b7ecc32a1product-thumb-4.jpg",
       "AssetKind": "All",
@@ -2839,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\e6e5a7d9-50ba-42ad-9899-500b7ecc32a1product-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\e75ac306-3499-4946-a100-c0ad5b14490dproduct-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\e75ac306-3499-4946-a100-c0ad5b14490dproduct-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/e75ac306-3499-4946-a100-c0ad5b14490dproduct-thumb-4.jpg",
       "AssetKind": "All",
@@ -2856,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\e75ac306-3499-4946-a100-c0ad5b14490dproduct-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\f9738c77-993c-4aa4-b4aa-c19bef73213dproduct-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\f9738c77-993c-4aa4-b4aa-c19bef73213dproduct-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/f9738c77-993c-4aa4-b4aa-c19bef73213dproduct-thumb-3.jpg",
       "AssetKind": "All",
@@ -2873,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\f9738c77-993c-4aa4-b4aa-c19bef73213dproduct-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\h4-slide.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\h4-slide.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/h4-slide.png",
       "AssetKind": "All",
@@ -2890,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h4-slide.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\h4-slide2.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\h4-slide2.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/h4-slide2.png",
       "AssetKind": "All",
@@ -2907,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h4-slide2.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\h4-slide3.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\h4-slide3.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/h4-slide3.png",
       "AssetKind": "All",
@@ -2924,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h4-slide3.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\h4-slide4.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\h4-slide4.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/h4-slide4.png",
       "AssetKind": "All",
@@ -2941,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h4-slide4.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\h4-slide7.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\h4-slide7.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/h4-slide7.png",
       "AssetKind": "All",
@@ -2958,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\h4-slide7.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\logo.png",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\logo.png",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/logo.png",
       "AssetKind": "All",
@@ -2975,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-1.jpg",
       "AssetKind": "All",
@@ -2992,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-2.jpg",
       "AssetKind": "All",
@@ -3009,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-3.jpg",
       "AssetKind": "All",
@@ -3026,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-4.jpg",
       "AssetKind": "All",
@@ -3043,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-5.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-5.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-5.jpg",
       "AssetKind": "All",
@@ -3060,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-6.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-6.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-6.jpg",
       "AssetKind": "All",
@@ -3077,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-6.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-thumb-1.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-thumb-1.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-thumb-1.jpg",
       "AssetKind": "All",
@@ -3094,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-thumb-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-thumb-2.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-thumb-2.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-thumb-2.jpg",
       "AssetKind": "All",
@@ -3111,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-thumb-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-thumb-3.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-thumb-3.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-thumb-3.jpg",
       "AssetKind": "All",
@@ -3128,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-thumb-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\img\\product-thumb-4.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\img\\product-thumb-4.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/img/product-thumb-4.jpg",
       "AssetKind": "All",
@@ -3145,10 +3213,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\img\\product-thumb-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\bxslider.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\bxslider.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/bxslider.min.js",
       "AssetKind": "All",
@@ -3162,10 +3230,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\bxslider.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\jquery.easing.1.3.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\jquery.easing.1.3.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/jquery.easing.1.3.min.js",
       "AssetKind": "All",
@@ -3179,10 +3247,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.easing.1.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\jquery.sticky.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\jquery.sticky.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/jquery.sticky.js",
       "AssetKind": "All",
@@ -3196,10 +3264,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\jquery.sticky.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\main.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\main.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/main.js",
       "AssetKind": "All",
@@ -3213,10 +3281,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\owl.carousel.min.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -3230,10 +3298,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\js\\script.slider.js",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\js\\script.slider.js",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/js/script.slider.js",
       "AssetKind": "All",
@@ -3247,10 +3315,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\js\\script.slider.js"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\style.css",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\style.css",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/style.css",
       "AssetKind": "All",
@@ -3264,10 +3332,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\style.css"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\ucommerce-screen.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\ucommerce-screen.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/ucommerce-screen.jpg",
       "AssetKind": "All",
@@ -3281,10 +3349,10 @@
       "OriginalItemSpec": "wwwroot\\assets\\ucommerce-screen.jpg"
     },
     {
-      "Identity": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\assets\\ustora.jpg",
+      "Identity": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\assets\\ustora.jpg",
       "SourceId": "ETIT",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\lenovo\\Desktop\\My\\Efso\\Dissertasiya\\ETIT\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\zahid.m\\Desktop\\Lesson_Project\\AspNetCore\\ETIT\\wwwroot\\",
       "BasePath": "_content/ETIT",
       "RelativePath": "assets/ustora.jpg",
       "AssetKind": "All",
